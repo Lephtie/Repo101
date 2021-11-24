@@ -1,0 +1,1 @@
+This is the first change done on this file to enable me understand how to commit and push a file project with Git
